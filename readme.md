@@ -15,6 +15,11 @@
 [![Proyecto Final](https://img.shields.io/badge/-Colab-blue?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/drive/1q2O4yNkBeOpTM62OHWreMFMRIDOOXDwz?usp=sharing)
 - **Descripción:** Proyecto final que reúne todos los conocimientos adquiridos durante el curso.
 
+
+## Recursos
+[Carpeta de drive con todos los archivos de la materia](https://drive.google.com/drive/folders/1tZoesfexLkpyX1wRldAo2RnmElJExOOX?usp=sharing)
+
+
 ## 📚 Cursos
 
 ### 1. Intro to Machine Learning - Kaggle
